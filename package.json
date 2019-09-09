@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "watch": "webpack --watch --mode=development"
+  },
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
